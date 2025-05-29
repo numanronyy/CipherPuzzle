@@ -4,7 +4,6 @@ import { getAuth } from 'https://www.gstatic.com/firebasejs/11.7.3/firebase-auth
 import { getFirestore } from 'https://www.gstatic.com/firebasejs/11.7.3/firebase-firestore.js';
 
 const firebaseConfig = {
-  apiKey: "AIzaSyCeOe3QvWIN13KVu-4xbPByQkM3N5S3ErI",
   authDomain: "cipherpuzzle.firebaseapp.com",
   projectId: "cipherpuzzle",
   storageBucket: "cipherpuzzle.firebasestorage.app",
